@@ -45,10 +45,10 @@ Shading can be produced in texts using graphic programs, but this requires the n
 
 ```
 p {
-font-size: 50pt;
-font-family: sans-serif;
-text-shadow: 10px 11px 18px rgba(300, 180, 100, 1),
--10px -11px 18px red;
+  font-size: 50pt;
+  font-family: sans-serif;
+  text-shadow: 10px 11px 18px rgba(300, 180, 100, 1),
+  -10px -11px 18px red;
 }
 ```
 
@@ -151,7 +151,7 @@ You can optimize forms embedded in your website by using :required and :optional
 }
 
 :optional {
-border: 1px solid black;
+  border: 1px solid black;
 }
 ```
 
