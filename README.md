@@ -6,7 +6,7 @@ If you’ve added different headings and sub headings in your HTML document and 
 
 ```
 #Heading {
-counter-reset: heading;
+  counter-reset: heading;
 }
 h1:before {
   content: counter(heading)") ";
@@ -71,6 +71,7 @@ The specified filter (grayscale in this case), is displayed in parenthesis and c
 CSS enables you to customize graphic web elements with filter details such as 'grayscale'
 
 Additional features that could prove useful:
+
 | Filter | Description | Value |
 | ----- | --------------- | --------- |
 blur(VALUE) | Soft focus | Radius in Pixels |
