@@ -163,8 +163,9 @@ background-image: linear-gradient(to right, #00b09b, #96c93d);
 13. The Strain
  
 Looking to add some pizzazz to your website? Try using this CSS to create a gradient background:
+```
 background-image: linear-gradient(to right, #870000, #190a05);
-
+```
 
 14. Yellow Mango
  
