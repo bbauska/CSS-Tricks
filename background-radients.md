@@ -57,6 +57,7 @@ radial-gradient(
  [ <ending-shape> || <size> ]? [ at <position> ]? ,
  <color-stop-list>
 );
+```
 
 ### Syntax of Conic Gradients
 
@@ -96,52 +97,68 @@ background-image: linear-gradient(to right, #8360c3, #2ebf91);
 4. Amin
  
 Use the following CSS to create the above gradient:
+```
 background-image: linear-gradient(to right, #8e2de2, #4a00e0);
+```
 
 5. Relaxing Red
  
 With just a single line of CSS code, you can add a beautiful, eye-catching background 
 gradient to your website:
+```
 background-image: linear-gradient(to right, #fffbd5, #b20a2c);
+```
 
 6. Sublime Light
  
 Try using this CSS to create a gradient background. It's easy to use and will add a touch 
 of style to your site:
+```
 background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
+```
 
 7. Megatron
  
 Use the following CSS to create a 3-colored gradient:
+```
 background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+```
 
 8. Blue Raspberry
  
 Use the following CSS to create a simple bluish linear gradient background:
+```
 background-image: linear-gradient(to right, #00b4db, #0083b0);
+```
 
 9. Premium Dark
  
 Get the gradient look shown above with this linear gradient CSS code:
+```
 background-image: linear-gradient(to right, #434343 0%, black 100%);
+```
 
 10. Crystalline
  
 Use the following CSS to create the above gradient:
+```
 background-image: linear-gradient(-20deg, #00cdac 0%, #8ddad5 100%);
+```
 
 11. Lawrencium
  
 Use the following CSS to create the above gradient. You can also use this code to create 
 other gradients with different colors.
+```
 background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
-
+```
 
 12. Ohhappiness
  
 Add a touch of style to your site with this easy-to-use CSS gradient background:
+```
 background-image: linear-gradient(to right, #00b09b, #96c93d);
-
+```
 
 13. The Strain
  
@@ -152,123 +169,148 @@ background-image: linear-gradient(to right, #870000, #190a05);
 14. Yellow Mango
  
 Use the following CSS to create the above radial gradient background:
+```
 background-image: radial-gradient(circle farthest-side, #fceabb, #f8b500);
+```
 
 15. Juicy Grass
  
 Transform your HTML elements in a snap with this CSS code:
-background-image: radial-gradient( circle 759px at -6.7% 50%, rgba(80,131,73,1) 0%, rgba(140,209,131,1) 26.2%, rgba(178,231,170,1) 50.6%, rgba(144,213,135,1) 74.1%, rgba(75,118,69,1) 100.3% );
-
+```
+background-image: radial-gradient( circle 759px at -6.7% 50%, rgba(80,131,73,1) 0%, 
+  rgba(140,209,131,1) 26.2%, rgba(178,231,170,1) 50.6%, rgba(144,213,135,1) 74.1%, 
+  rgba(75,118,69,1) 100.3% );
+```
 
 16. Pink Fish
  
 Use the following CSS to create the above linear gradient background:
+```
 background-image: linear-gradient(to right, rgb(242, 112, 156), rgb(255, 148, 114));
-
+```
 
 17. Sea Lord
  
 Use the following CSS to create the above gradient:
+```
 background-image: linear-gradient( 109.6deg, rgba(156,252,248,1) 11.2%, rgba(110,123,251,1) 91.1% );
-
+```
 
 18. Cherry Blossom
  
-This CSS code will create a cherry-colored gradient. You can also use it to create other gradients with different colors:
+This CSS code will create a cherry-colored gradient. You can also use it to create 
+other gradients with different colors:
+```
 background-image: linear-gradient(25deg,#d64c7f,#ee4758 50%);
-
+```
 
 19. Fresh Air
  
 To create the gradient shown above, use the following CSS code:
+```
 background-image: linear-gradient( 95.2deg, rgba(173,252,234,1) 26.8%, rgba(192,229,246,1) 64% );
-
+```
 
 20. Stellar
  
 Use the following CSS to create a blue gradient that is sure to capture attention:
+```
 background-image: radial-gradient( circle farthest-corner at 22.4% 21.7%, rgba(4,189,228,1) 0%, rgba(2,83,185,1) 100.2% );
-
+```
 
 21. Noon to Dusk
  
 Transform your HTML elements with a single line of CSS code, and add a beautiful background gradient with ease:
+```
 background-image: linear-gradient(to right, #ff6e7f, #bfe9ff);
-
+```
 
 22. Sunrise
  
 Your website can have a sunrise gradient by just adding one line of CSS code:
+```
 background-image: linear-gradient(to right, #ff512f, #f09819);
-
+```
 
 23. Forest
  
 Use the following CSS to create the above gradient. You can also use it to create 
 other gradients with different colors, giving you endless possibilities for 
 customizing your site.
+```
 background-image: linear-gradient(to right, #5a3f37, #2c7744);
-
+```
 
 24. Superman
  
 Get the gradient look shown above with this linear gradient CSS code:
+```
 background-image: linear-gradient(to right, #0099f7, #f11712);
-
+```
 
 25. Deep-Sea Space
  
 Use the following CSS to make the background look professional and polished:
+```
 background-image: linear-gradient(to right, #2c3e50, #4ca1af);
-
+```
 
 26. Royal
  
 Use the following CSS to create the above linear gradient background:
+```
 background-image: linear-gradient(to right, #141e30, #243b55);
-
+```
 
 27. Orange Coral
  
 Use the following CSS to create the above gradient:
+```
 background-image: linear-gradient(to right, #ff9966, #ff5e62);
-
+```
 
 28. Old Wine
  
 You can create a dark pink gradient style using the following CSS code:
+```
 background-image: linear-gradient(to right, #33001b, #ff0084); 
-
+```
 
 29. Morning Sky
  
 Use the following CSS to create a clear morning sky gradient:
+```
 background-image: linear-gradient(to right, #b6fbff, #83a4d4);
-
+```
 
 30. Caramel
  
 Make your background stand out with this CSS linear gradient background:
+```
 background-image: linear-gradient(to right, #FFD194, #D1913C);
-
+```
 
 31. Dusk
  
-Looking to captivate your audience? Incorporate this CSS code snippet to create a dusk-themed gradient background that will elevate your website's appeal.
-
+Looking to captivate your audience? Incorporate this CSS code snippet to create a 
+dusk-themed gradient background that will elevate your website's appeal.
+```
 background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+```
+
 32. Margo White
  
 Generate an eye-catching and simplistic gradient background by implementing this CSS code:
-
+```
 background-image: linear-gradient(to right, #ffefba, #ffffff);
-
+```
 
 33. Evening to Night
  
 Achieve the same alluring gradient effect showcased above by utilizing this linear gradient CSS code:
-
+```
 background-image: linear-gradient(to right, #005aa7, #fffde4);
+```
 
 34. Ocean View
  
@@ -286,7 +328,7 @@ Utilize this CSS code snippet to create a gradient background similar to the one
 background-image: linear-gradient(to right, #d3cce3, #e9e4f0); 
 ```
 
-Make Your Webpage Elegant With Gradients
+### Make Your Webpage Elegant With Gradients
 
 You can use gradients with several elements of your webpage like background, borders, icons, 
 buttons, text, underlining, list bullets, etc. Take your site's design to new heights.
